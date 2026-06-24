@@ -354,7 +354,7 @@ def create_pdf_report(final_pred, prob, explanation):
 # ==============================
 @st.cache_resource
 def load_model():
-    data = joblib.load("models/final_model.pkl")
+    data = joblib.load("final_model.pkl")
     return data["pipeline"], data["model"], data["columns"]
 
 pipeline, ml_model, columns = load_model()
