@@ -523,7 +523,7 @@ def login():
         st.markdown("## 🛡️ SafeGuard AI")
         st.write("Industrial Safety Platform")
         st.write("👩‍💻 Developed by Mangasamudram Lokeswari")
-        st.caption("Developed by Mangasamudram Lokeswari")
+        st.caption("AI-Powered Industrial Safety & Risk Prediction Platform")
 
         email = st.text_input("📧 Email")
         pwd = st.text_input("🔑 Password", type="password")
