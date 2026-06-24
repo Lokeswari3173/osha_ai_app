@@ -245,7 +245,7 @@ def create_pdf_report(final_pred, prob, explanation):
         textColor=colors.HexColor("#1e40af"),
         spaceAfter=10
     )
-    story.append(Paragraph("🛡️ SafeGuard AI - Safety Risk Report", title_style))
+    story.append(Paragraph("🛡️ SafeGuard AI - Safety Risk Report<br/>Developed by Mangasamudram Lokeswari", title_style))
     story.append(Spacer(1, 10))
 
     # ================= SUMMARY TABLE =================
