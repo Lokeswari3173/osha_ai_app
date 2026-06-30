@@ -244,7 +244,8 @@ This project is licensed under the MIT License.
 
 
 ## Home Dashboard
-![Home](screenshots/home.png)
+![Home](<img width="1600" height="760" alt="image" src="https://github.com/user-attachments/assets/28792809-b30d-4692-96b4-5a69bdd0e708" />
+)
 
 ## Risk Predictor
 ![Risk Predictor](screenshots/risk_predictor.png)
