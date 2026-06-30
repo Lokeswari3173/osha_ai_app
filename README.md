@@ -1,4 +1,4 @@
-# osha_ai_app
+<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/4b264b34-8fa2-4e45-9dd4-6a7a03975ec8" /># osha_ai_app
 ML-based system to predict workplace incident outcomes using OSHA data, combining TF-IDF and LightGBM with a deployable Streamlit interface.
 # 🛡️ SafeGuard AI
 
@@ -239,22 +239,9 @@ This project is licensed under the MIT License.
 # 📸 Application Screenshots
 
 
-- login.png
-- home.png
-- risk_predictor.png
-- job_information.png
-- incident_details.png
-- prediction_result.png
-- ai_explanation.png
-- safety_report.png
-- ai_chatbot.png
-- download_report.png
-
-Then use:
-
 ```markdown
 ## Login
-(<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/f34fd3c2-30ff-42c7-9d72-623a10befec0" />
+(<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/c0aa6d27-9086-4079-8167-8f39a8137bd5" />
 )
 
 ## Home Dashboard
