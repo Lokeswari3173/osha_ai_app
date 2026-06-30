@@ -238,7 +238,6 @@ This project is licensed under the MIT License.
 
 # 📸 Application Screenshots
 
-Create a `screenshots/` folder in your repository and save your images with these names:
 
 - login.png
 - home.png
@@ -255,7 +254,8 @@ Then use:
 
 ```markdown
 ## Login
-![Login](screenshots/login.png)
+(<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/f34fd3c2-30ff-42c7-9d72-623a10befec0" />
+)
 
 ## Home Dashboard
 ![Home](screenshots/home.png)
