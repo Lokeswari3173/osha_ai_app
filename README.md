@@ -235,39 +235,84 @@ This project is licensed under the MIT License.
 
 ---
 
+
 # 📸 Application Screenshots
 
+## 🔐 Login Page
 
-```markdown
-## Login
-<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/4b264b34-8fa2-4e45-9dd4-6a7a03975ec8" /># osha_ai_app)
+Secure authentication page for users to log in or create a new account before accessing the platform.
 
-
-## Home Dashboard
-![Home](<img width="1600" height="760" alt="image" src="https://github.com/user-attachments/assets/28792809-b30d-4692-96b4-5a69bdd0e708" />
+(<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/7bd8a97b-bf8d-4906-90fa-064fd842f5c0" />
 )
 
-## Risk Predictor
-![Risk Predictor](screenshots/risk_predictor.png)
+---
 
-## Job Information
-![Job Information](screenshots/job_information.png)
+## 🏠 Home Dashboard
 
-## Incident Details
-![Incident Details](screenshots/incident_details.png)
+The main dashboard provides an overview of SafeGuard AI, live risk insights, supported industries, and quick navigation to prediction and AI assistance.
 
-## Prediction Result
-![Prediction Result](screenshots/prediction_result.png)
+(Add Screenshot 2)
 
-## AI Safety Explanation
-![AI Explanation](screenshots/ai_explanation.png)
+---
 
-## Safety Report
-![Safety Report](screenshots/safety_report.png)
+## 🏢 Company Information
 
-## AI Safety Assistant
-![AI Chatbot](screenshots/ai_chatbot.png)
+Users can enter company details such as company name, industry, organization size, number of employees, and total working hours.
 
-## Download Report
-![Download Report](screenshots/download_report.png)
-```
+(Add Screenshot 3)
+
+---
+
+## 👨‍💼 Job Information & Incident Details
+
+Input job description, SOC details, incident description, injury information, location, and object/substance involved in the incident.
+
+(Add Screenshot 4)
+
+---
+
+## ⚙️ Risk Prediction Form
+
+Complete workplace incident details, timing, work impact, establishment information, and additional safety parameters required for prediction.
+
+(Add Screenshot 5)
+
+---
+
+## 🎯 Prediction Result
+
+Displays the predicted workplace incident outcome along with the model confidence score.
+
+(Add Screenshot 6)
+
+---
+
+## 🤖 AI Safety Explanation
+
+Generates an AI-powered explanation including root cause analysis, risk factors, recurrence probability, and detailed workplace safety insights.
+
+(Add Screenshot 7)
+
+---
+
+## 📄 AI Safety Report
+
+Provides a comprehensive safety report containing prevention strategies, worker treatment recommendations, and long-term safety measures.
+
+(Add Screenshot 8)
+
+---
+
+## 💬 AI Safety Assistant
+
+Interactive AI chatbot that answers OSHA regulations, workplace safety practices, hazard prevention, and incident response queries.
+
+(Add Screenshot 9)
+
+---
+
+## 📥 Report Download
+
+Users can download the generated AI Safety Report and Prediction Report in PDF format for documentation and future reference.
+
+(Add Screenshot 10)
