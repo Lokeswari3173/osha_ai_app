@@ -242,8 +242,8 @@ This project is licensed under the MIT License.
 
 Secure authentication page for users to log in or create a new account before accessing the platform.
 
-(<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/7bd8a97b-bf8d-4906-90fa-064fd842f5c0" />
-)
+<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/7bd8a97b-bf8d-4906-90fa-064fd842f5c0" />
+
 
 ---
 
