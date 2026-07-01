@@ -245,7 +245,6 @@ Secure authentication page for users to log in or create a new account before ac
 <img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/7bd8a97b-bf8d-4906-90fa-064fd842f5c0" />
 
 
----
 
 ## 🏠 Home Dashboard
 
@@ -255,7 +254,6 @@ The main dashboard provides an overview of SafeGuard AI, live risk insights, sup
 
 <img width="1600" height="762" alt="image" src="https://github.com/user-attachments/assets/591bd5bd-24f8-4d7e-a1b4-15aaa3b0095c" />
 
----
 
 ## 🏢 Company Information
 
@@ -263,7 +261,6 @@ Users can enter company details such as company name, industry, organization siz
 
 <img width="1600" height="741" alt="image" src="https://github.com/user-attachments/assets/e0f54d44-0339-4a8c-a821-c064bddbca23" />
 
----
 
 ## 👨‍💼 Job Information & Incident Details
 
