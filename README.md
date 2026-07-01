@@ -251,15 +251,18 @@ Secure authentication page for users to log in or create a new account before ac
 
 The main dashboard provides an overview of SafeGuard AI, live risk insights, supported industries, and quick navigation to prediction and AI assistance.
 
-(Add Screenshot 2)
-
+(<img width="1600" height="760" alt="image" src="https://github.com/user-attachments/assets/06977e6c-2ccf-4e9d-b832-b84c2bc49ff4" />
+)
+(<img width="1600" height="762" alt="image" src="https://github.com/user-attachments/assets/591bd5bd-24f8-4d7e-a1b4-15aaa3b0095c" />
+)
 ---
 
 ## 🏢 Company Information
 
 Users can enter company details such as company name, industry, organization size, number of employees, and total working hours.
 
-(Add Screenshot 3)
+(<img width="1600" height="741" alt="image" src="https://github.com/user-attachments/assets/e0f54d44-0339-4a8c-a821-c064bddbca23" />
+)
 
 ---
 
@@ -267,7 +270,8 @@ Users can enter company details such as company name, industry, organization siz
 
 Input job description, SOC details, incident description, injury information, location, and object/substance involved in the incident.
 
-(Add Screenshot 4)
+(<img width="1600" height="759" alt="image" src="https://github.com/user-attachments/assets/8168f59d-bda9-4ce0-bf32-8caadf7a6826" />
+)
 
 ---
 
@@ -275,15 +279,16 @@ Input job description, SOC details, incident description, injury information, lo
 
 Complete workplace incident details, timing, work impact, establishment information, and additional safety parameters required for prediction.
 
-(Add Screenshot 5)
+(<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/b4d64ebf-43d1-40b1-a2e1-058ed9c641f9" />
+)
 
 ---
 
 ## 🎯 Prediction Result
 
 Displays the predicted workplace incident outcome along with the model confidence score.
+(<img width="1600" height="779" alt="image" src="https://github.com/user-attachments/assets/203d051d-50c9-4edb-a2e9-6878f6c6e76e" />)
 
-(Add Screenshot 6)
 
 ---
 
@@ -291,28 +296,29 @@ Displays the predicted workplace incident outcome along with the model confidenc
 
 Generates an AI-powered explanation including root cause analysis, risk factors, recurrence probability, and detailed workplace safety insights.
 
-(Add Screenshot 7)
-
+(<img width="1600" height="754" alt="image" src="https://github.com/user-attachments/assets/636141c6-e3a9-4354-9208-ec59aaa2bfdb" />
+)
+(<img width="1600" height="760" alt="image" src="https://github.com/user-attachments/assets/4f56e9c7-c75a-44f4-a478-c2dd1900f49b" />
+)
 ---
 
 ## 📄 AI Safety Report
 
 Provides a comprehensive safety report containing prevention strategies, worker treatment recommendations, and long-term safety measures.
 
-(Add Screenshot 8)
 
 ---
+## 📥 Report Download
+
+Users can download the generated AI Safety Report and Prediction Report in PDF format for documentation and future reference.
+
 
 ## 💬 AI Safety Assistant
 
 Interactive AI chatbot that answers OSHA regulations, workplace safety practices, hazard prevention, and incident response queries.
 
-(Add Screenshot 9)
+(<img width="1600" height="762" alt="image" src="https://github.com/user-attachments/assets/4e392865-d7b4-4e80-9cad-0447deeca9d6" />
+)
 
----
 
-## 📥 Report Download
 
-Users can download the generated AI Safety Report and Prediction Report in PDF format for documentation and future reference.
-
-(Add Screenshot 10)
